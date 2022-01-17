@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "node-addon-api": "^3.0.0",
-    "prebuild-install": "^6.0.0"
+    "prebuild-install": "^6.1.4"
   },
   "binary": {
     "napi_versions": [
